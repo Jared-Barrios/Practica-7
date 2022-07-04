@@ -1,0 +1,28 @@
+table{
+    width: 100%;
+}
+
+button{
+    width: 100%;
+    font-size: 150%;
+}
+
+input{
+    width: 100%;
+    font-size: 150%;
+    text-align: center;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+}
+.ac {
+    color: red;
+}
+
+.cuerpo{
+    margin: 0 auto;
+    width: 55%;
+}
+
